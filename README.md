@@ -1,5 +1,5 @@
-# Cyberpunk 2077 (website)
-### Cyberpunk 2077 - a website created using a layout from Figma
+# Cyberpunk landing
+### Cyberpunk 2077 - landing created using a layout from Figma
 
 <img width="400" src="https://github.com/t1lent/cyberpunk-landing/blob/main/img/cyberpunk.jpg?raw=true">
 
